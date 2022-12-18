@@ -1,4 +1,9 @@
 # Expression Analysis of Industry Leaders using CNNs
+
+![license logo](https://img.shields.io/github/license/adsers/expression-analysis)
+![last commit](https://img.shields.io/github/last-commit/adsers/expression-analysis)
+![repo size](https://img.shields.io/github/repo-size/adsers/expression-analysis)
+
 Watch the video below:
 
 [![Watch the video](https://drive.google.com/u/0/uc?id=1iiKGCRsp_a_mrTeJeiaGFO7ZswcdOQAC&export=download)](https://youtu.be/6lsaLdyPeK4)
